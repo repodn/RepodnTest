@@ -7,3 +7,4 @@ Edit A from reponemec.
 Edit B from reponemec.
 Edit C from reponemec. (topic 5)
 Edit D from reponemec. (topic 6)
+Edit po zahájení PR.
