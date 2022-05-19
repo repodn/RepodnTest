@@ -8,4 +8,4 @@ Edit B from reponemec.
 Edit C from reponemec. (topic 5)
 Edit D from reponemec. (topic 6)
 Edit po zahájení PR.
-Edit 2 po zahájení PR. Editace xxx.
+Edit 2 po zahájení PR. Editace xxx. YYY
